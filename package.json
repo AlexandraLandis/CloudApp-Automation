@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^10.7.0"
+  },
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "cypress-file-upload": "5.0.8"
+  },
+  "scripts": {}
+}
